@@ -1,10 +1,6 @@
 ﻿namespace DesignPatternPractice.DesignPatternArchitecturePattern
 {
-    public class Implementation
-    {
-    }
-
-
+    
     /// <summary>
     /// Customer
     /// </summary>

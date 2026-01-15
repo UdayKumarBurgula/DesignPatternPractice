@@ -1,8 +1,6 @@
 ﻿namespace DesignPatternPractice.DesignPatternArchitecturePattern
 {
-    public class Abstraction
-    {
-    }
+  
 
     /// <summary>
     /// ICustomer
@@ -70,10 +68,10 @@
      * 
      * 🧠 Comparison Table
         Relationship	Type	Ownership	Lifecycle Dependency
-Inheritance	IS-A	N/A	Child depends on Parent
-Association	USES-A	❌ None	Independent
-Aggregation	HAS-A	⚠️ Weak	Independent
-Composition	HAS-A	✅ Strong	Dependent
+        Inheritance	IS-A	N/A	Child depends on Parent
+        Association	USES-A	❌ None	Independent
+        Aggregation	HAS-A	⚠️ Weak	Independent
+        Composition	HAS-A	✅ Strong	Dependent
      * 
      ********************************************/
 
